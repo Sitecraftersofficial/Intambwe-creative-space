@@ -22,8 +22,8 @@
 
 /* user's logo mark + text wordmark side-by-side (horizontal lockup) */
 .header-logo img {
-  height: 2.75rem;
-  width: 2.75rem;
+  height: 3.25rem;
+  width: 3.25rem;
   object-fit: contain;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .header-wordmark-main {
-  font-size: 1.25rem;
+  font-size: 1.05rem;
   font-weight: 800;
   letter-spacing: 0.14em;
   color: var(--color-text-darker);
